@@ -257,4 +257,4 @@ def get_article(path):
         return "Invalid URL", 400
 
 
-app.run(host="0.0.0.0", port=5000, debug=False)
+#app.run(host="0.0.0.0", port=5000, debug=False)
